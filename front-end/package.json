@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://nzlotrfan.github.io/SourceControlExercise",
+  "homepage":"https://nzlotrfan.github.io/Git-Hub-Action-Demo",
   "scripts": {
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
